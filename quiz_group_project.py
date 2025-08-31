@@ -1,4 +1,4 @@
-
+Q1="""What is the escape of velocity of earth? 
  A,4km/s 
  B,7km/s 
  C,16km/s 
